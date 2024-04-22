@@ -1,6 +1,6 @@
 # 👋 Hello World!
 
-I am Guilherme, a back-end developer analyst from Brazil, currently working for MAGNA SISTEMAS.
+I am Guilherme, a back-end developer analyst from Brazil, currently working for [MAGNA SISTEMAS](https://www.magnasistemas.com.br/wps/portal/internet).
 
 * 👨‍💻 I am currently studying Software Architecture.
 * 😇 I have high skills in Communication and team Leadership.
