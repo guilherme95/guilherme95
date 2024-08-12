@@ -1,11 +1,11 @@
-# 👋 Hello World!
+# 👋 Hello World!, My name is Guilherme😎
 
-I am Guilherme, a back-end developer analyst from Brazil, currently working for [MAGNA SISTEMAS](https://www.magnasistemas.com.br/wps/portal/internet).
+Software Engineer from Brazil, currently working at [PORTO SEGURO](https://www.portoseguro.com.br/).
 
 * 👨‍💻 I am currently studying Software Architecture.
-* 😇 I have high skills in Communication and team Leadership.
+* 😇 I have high skills in Communication and Team Leadership.
 * 💬 I love talking about Softwares, Programming, and Games.
-* 📚 Currently studying Systems Analysis and Development and graduated in Computer Technician.
+* 📚 Currently studying Systems Analysis and Development and Graduated in Computer Technician.
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-victor-mello/)
